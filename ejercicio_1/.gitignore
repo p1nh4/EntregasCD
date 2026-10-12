@@ -1,0 +1,21 @@
+# Maven 
+/target/
+*.jar
+*.war
+
+
+# IDE IntelliJ IDEA
+/.idea/
+*.iml
+
+
+# IDE Eclipse
+/.classpath
+/.project
+/.settings/
+
+
+# Configuracion local con datos sensibles
+application-local.properties
+.env
+*.key

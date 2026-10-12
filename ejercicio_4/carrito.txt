@@ -1,0 +1,4 @@
+camiseta
+pantalon
+zapatillas
+precio corregido
